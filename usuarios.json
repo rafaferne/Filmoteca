@@ -1,0 +1,46 @@
+{
+    "usuarios": [
+        {
+            "name": "Antonio",
+            "foto": "imagenes/Antonio.jpg",
+            "peliculas": {
+                "uno": {
+                    "nombre": "coco.jpeg",
+                    "trailer": "coco_trailer.mp4",
+                    "sinopsis": "coco_sinopsis.jpeg"
+                },
+                "dos": {
+                    "nombre": "del_reves.jpeg",
+                    "trailer": "del_reves_trailer.mp4",
+                    "sinopsis": "del_reves_sinopsis.jpeg"
+                },
+                "tres": {
+                    "nombre": "vengadores.jpeg",
+                    "trailer": "vengadores_trailer.mp4",
+                    "sinopsis": "vengadores_sinopsis.jpeg"
+                }
+            }
+        },
+        {
+            "name": "Rafa",
+            "foto": "imagenes/Rafa.jpg",
+            "peliculas": {
+                "uno": {
+                    "nombre": "titanic.jpeg",
+                    "trailer": "titanic_trailer.mp4",
+                    "sinopsis": "titanic_sinopsis.jpeg"
+                },
+                "dos": {
+                    "nombre": "intocable.jpeg",
+                    "trailer": "intocable_trailer.mp4",
+                    "sinopsis": "intocable_sinopsis.jpeg"
+                },
+                "tres": {
+                    "nombre": "interstellar.jpeg",
+                    "trailer": "interstellar_trailer.mp4",
+                    "sinopsis": "interstellar_sinopsis.jpeg"
+                }
+            }
+        }
+    ]
+}
